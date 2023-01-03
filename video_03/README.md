@@ -1,7 +1,7 @@
 ### Caracterizando a  VBO
 - glVertexAttribPointer 
 - glEnableVertexAttribArray
-
+- glDrawArrays
 
 
 #### Mesmo resultado do vídeo 1
