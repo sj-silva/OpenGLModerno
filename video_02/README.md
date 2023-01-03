@@ -1,3 +1,9 @@
+### Pontos Abordados
+- glGenBuffers
+- glBindBuffer
+- glBufferData
+
+
 ### Mesmo resultado do vídeo 1
 
 <p align="center">
