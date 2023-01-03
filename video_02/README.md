@@ -1,4 +1,4 @@
-### Pontos Abordados
+### Criando a VBO
 - glGenBuffers
 - glBindBuffer
 - glBufferData
