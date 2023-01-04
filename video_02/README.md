@@ -5,7 +5,7 @@
   - glBufferData
 
 
-#### Link para o YouTube:
+#### Link para o vídeo no YouTube:
 
 [![Link to video 02](https://img.youtube.com/vi/MqIg2InJTKM/default.jpg)](https://youtu.be/-dK5QUrJX4E)
 
