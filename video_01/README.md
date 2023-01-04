@@ -4,7 +4,7 @@
 - Desenhar um Triângulo no modo Legacy
 
 
-#### Link para o YouTube:
+#### Link para o vídeo no YouTube:
 
 [![Link to video 01](https://img.youtube.com/vi/MqIg2InJTKM/default.jpg)](https://youtu.be/MqIg2InJTKM)
 
