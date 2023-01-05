@@ -1,7 +1,14 @@
 
 #### 🎯Objetivos:
 - Compilar e Linkar Vertex Shader e Fragment Shader
-  
+  - glCreateProgram
+  - glCreateShader 
+  - glShaderSource
+  - glCompileShader
+  - glAttachShader
+  - glLinkProgram
+  - glDeleteShader
+  - glUseProgram
 
 
 #### Link para o vídeo no YouTube:
