@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img width="320" height="240" src="modern08.png">
+  <img width="320" height="240" src="modern_08.png">
 </p>
 
 
