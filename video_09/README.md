@@ -25,7 +25,7 @@
 
 #### Link para o vídeo no YouTube:
 
-[![Link to video 08](https://img.youtube.com/vi/cO5ZVmn6XPw/default.jpg)](https://youtu.be/cO5ZVmn6XPw)
+[![Link to video 09](https://img.youtube.com/cO5ZVmn6XPw/default.jpg)](https://youtu.be/cO5ZVmn6XPw)
 
 
 <p align="center">
