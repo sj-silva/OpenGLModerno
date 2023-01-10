@@ -8,7 +8,7 @@ detail::tvec3< T > const & 	v
   - **v** :	Coordinates of a translation vector.
 #### Link para o vídeo no YouTube:
 
-[![Link to video 12](https://img.youtube.com/vi/Cj6FBxf2dME/default.jpg)](https://youtu.be/Cj6FBxf2dME)
+[![Link to video 12](https://img.youtube.com/vi/CoQsSe83i3Y/default.jpg)](https://youtu.be/CoQsSe83i3Y)
 
 
 <p align="center">
