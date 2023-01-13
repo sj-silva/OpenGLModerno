@@ -1,4 +1,9 @@
 #### 🎯 Toda informação em um único Buffer
+
+<p align="center">
+  <img width="1341" height="240" src="singleBuffer.png">
+</p>
+
 ```cpp
 
         glGenVertexArrays(1, &QuadVAO);
