@@ -4,7 +4,7 @@
 
 #### Link para o vídeo no YouTube:
 
-[![Link to video 28](https://img.youtube.com/vi/MqIg2InJTKM/default.jpg)](https://youtu.be/P3PTqWFTvbU)
+[![Link to video 28](https://img.youtube.com/vi/CkILZbc5yTw/default.jpg)](https://youtu.be/CkILZbc5yTw)
 
 
 <p align="center">
